@@ -1,0 +1,9 @@
+[submodule "backend"]
+	path = backend
+	url = https://github.com/albertdavid0708/viction-backend
+[submodule "contract"]
+	path = contract
+	url = https://github.com/danielNg25/alphacado-viction
+[submodule "frontend"]
+	path = frontend
+	url = https://github.com/longvuit18/alphacado-viction
